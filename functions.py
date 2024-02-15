@@ -13,7 +13,7 @@ sum = add(7,8)
 print(sum)
 
 #inbuilt functions
-# input class
+# input , class
 
 
 
